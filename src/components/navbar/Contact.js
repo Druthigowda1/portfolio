@@ -211,7 +211,7 @@ const Contact = () => {
 
                             <Typography variant="body1" sx={{ mb: 2, fontSize: "1.1rem", color: 'lightgray' }}>
                                 📧 Email:{" "}
-                                <a href="mailto:youremail@gmail.com" style={{ color: 'lightgray', textDecoration: 'none' }}>
+                                <a href="mailto:sahananv01@gmail.com" style={{ color: 'lightgray', textDecoration: 'none' }}>
                                     youremail@gmail.com
                                 </a>
                             </Typography>
@@ -219,7 +219,7 @@ const Contact = () => {
                             <Typography variant="body1" sx={{ mb: 2, fontSize: "1.1rem", color: 'lightgray' }}>
                                 📱 Phone:{" "}
                                 <a href="tel:+911234567890" style={{ color: 'lightgray', textDecoration: 'none' }}>
-                                    +91 12345 67890
+                                    +91 8150083184
                                 </a>
                             </Typography>
 
